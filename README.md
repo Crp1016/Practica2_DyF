@@ -121,3 +121,5 @@ Se suman distintos valores a la puntuación según el Tag acorde a lo que consid
 
 
 
+Los bouncers tienen un delay de 0,5 para resetear Do Once y las dianas/gomas tienen un delay de 0,8.
+
